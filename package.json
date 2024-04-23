@@ -1,0 +1,14 @@
+{
+  "name": "inf-css",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Atom css framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["css", "atom"],
+  "author": "",
+  "license": "MIT"
+}
